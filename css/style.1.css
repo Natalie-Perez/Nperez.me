@@ -1,0 +1,140 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+/*******Navigation*******/
+#nav {
+    border-color: transparent;
+    margin: auto;
+}
+
+#nav a {
+    color: #A49C89;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+#nav-footer {
+    background-color: #F0F0F0;
+    color: #A49C89;
+    font-family: Helvetica, Arial, Sans-serif;
+    height: 49px;
+}
+
+#nav-footer .social-icons {
+    margin: auto;
+    text-decoration: none;
+}
+
+#nav-footer i {
+    background-color: transparent;
+    border: none;
+    color: #A49C89;    
+    padding: 7px;
+}
+
+
+
+/*******Home*******/
+#home {
+    background: url("../img/office-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    margin-top: 25px;
+    padding-bottom: 350px;
+    position: relative;
+}
+
+
+#home h1 {
+    font-size: 70px;
+    color: #D0642F;
+    padding-top: 56px;
+    font-family: Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+}
+
+#home h2 {
+    font-size: 28px;
+    color: #A49C89;
+    font-family: Helvetica, Arial, Sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+
+
+/*******About*******/
+#about {
+    background-color: #E1DED7;
+    background-repeat: no-repeat;
+    padding: 49px 0px;
+}
+
+#about h1 {
+    color: #A49C89;
+    font-weight: bold;
+}
+
+#about p {
+    font-size: 16px;
+    text-align: justify;
+}
+
+
+
+/********** WORK **********/
+#work {
+    padding: 60px 0px;
+    text-align: center;
+}
+
+#work h1, p {
+    color: #A49C89;
+}
+
+#work button {
+    border: none;
+}
+ 
+#work i {
+    color: #D0642F;
+    padding: 10px;
+}
+
+#work h3 {
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+
+
+/*******Contact*******/
+#contact {
+    background: url("http://freephoto.cc/wp-content/uploads/2016/02/notebook-coffepreview-850x572.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #E1DED7;
+    padding: 80px 0;
+}
+
+#contact h1 {
+    font-weight: bold;
+    padding: 20px;
+}
+
+#contact input {
+    height: 50px;
+}
+
+#contact textarea {
+    height: 180px;
+}
+
+#contact input[type="submit"] {
+    background-color: #A49C89;
+    border: none;
+    color: #E1DED7;
+}

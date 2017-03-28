@@ -1,0 +1,63 @@
+/*header .main {
+    background: #FFE4C0;
+}*/
+
+header .main {
+    background-color: #fff;
+}
+
+header span {
+    color: #2C3E50;
+}
+
+
+/* About - Team */
+#team .icon-picture {
+    border: 5px solid #fff;
+    height: 250px;
+    width: 250px;
+}
+
+#team {
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+} 
+ #team .team {
+     margin-bottom: 80px;
+ }
+
+#team .caption {
+    color: #2C3E50;
+}
+
+#about {
+    background: #DDE2E6;
+    padding-top: 10px;
+}
+
+#about .section-heading {
+    margin: 30px;
+    padding-bottom: 20px;
+}
+
+section #high-concept {
+    padding: 5px;
+}
+
+.sub-descpt {
+    margin: 50px;
+}
+
+#gameplay .list li {
+    font-size: 20px;
+    padding: 5px;
+}
+
+.sub-spacing {
+    padding-bottom: 25px;
+}
+
+#characters img {
+    margin: 20px;
+}

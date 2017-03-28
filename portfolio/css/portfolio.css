@@ -1,0 +1,80 @@
+/****** Base Styles ******/
+body {
+    background-color: #E1DED7;
+}
+
+h1 {
+    color: #A49C89;
+    padding-top: 56px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2, p {
+    color: #D0642F;
+}
+
+h3 {
+    color: #A49C89;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+
+
+/****** Game Jam ******/
+#gameJam {
+    clear: both;
+}
+
+#gameJam .caption {
+    text-align: center;
+}
+
+#gameJam h2 {
+    display: block;
+}
+
+
+/****** Timer ******/
+#js-timer {
+    clear: both;
+}
+
+#timer {    
+    background-color: #B4B7B0;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+/****** Guessing Game ******/
+#game {
+    clear: both;
+}
+
+#game p {
+    color: #A49C89;
+}
+
+
+
+/****** Magic 8 Ball ******/
+#js-magic-ball {
+    clear: both;
+}
+
+
+
+/****** Sites ******/
+#site {
+    clear: both;
+}
+
+#site .caption {
+    text-align: center;
+}
